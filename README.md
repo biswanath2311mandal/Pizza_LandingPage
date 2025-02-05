@@ -26,11 +26,11 @@ A simple and interactive Domino's-inspired pizza ordering web application built 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Dominos-Clone.git
+   git clone https://github.com/biswanath2311mandal/Pizza_LandingPage.git
    ```
 2. **Navigate to the Project Folder**
    ```bash
-   cd Dominos-Clone
+   cd Pizza_LandingPage
    ```
 3. **Open `index.html` in a Browser**
 
